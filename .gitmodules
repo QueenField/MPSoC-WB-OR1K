@@ -3,4 +3,4 @@
 	url = https://github.com/QueenField/MPSoC-WB-DBG.git
 [submodule "soc-wb"]
 	path = soc-wb
-	url = https://github.com/QueenField/SoC-OR1K.git
+	url = https://github.com/QueenField/SoC-WB-OR1K.git
