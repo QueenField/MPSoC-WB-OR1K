@@ -1,6 +1,6 @@
-[submodule "dbg"]
-	path = dbg
-	url = https://github.com/PacoReinaCampo/MPSoC-DBG.git
-[submodule "soc"]
-	path = soc
-	url = https://github.com/PacoReinaCampo/SoC-OR1K.git
+[submodule "dbg-wb"]
+	path = dbg-wb
+	url = https://github.com/QueenField/MPSoC-WB-DBG.git
+[submodule "soc-wb"]
+	path = soc-wb
+	url = https://github.com/QueenField/SoC-OR1K.git
