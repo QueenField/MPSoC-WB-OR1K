@@ -1,4 +1,4 @@
-all: build_mpsoc4d
+all: build_mpsoc2d
 
 build_mpsoc2d:
 	@if [ ! -e work ]; then vlib work; fi
